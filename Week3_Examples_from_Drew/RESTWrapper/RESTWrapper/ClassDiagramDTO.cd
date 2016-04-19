@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="RESTWrapper.DataTransferObjects.AuthenticationInfoData">
+    <Position X="7.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAACAACAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>DataTransferObjects\AuthenticationInfoData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RESTWrapper.DataTransferObjects.BaseInput">
+    <Position X="0.5" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAABAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataTransferObjects\BaseInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RESTWrapper.DataTransferObjects.BaseOutput">
+    <Position X="4.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAQAAAgAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>DataTransferObjects\BaseOutput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RESTWrapper.DataTransferObjects.DatabaseData">
+    <Position X="7.5" Y="2.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataTransferObjects\DatabaseData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RESTWrapper.DataTransferObjects.TopOutput">
+    <Position X="4.25" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAgAAAAAAgAAAAABgAQAAgA=</HashCode>
+      <FileName>DataTransferObjects\TopOutput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="RESTWrapper.RESTConnection">
+    <Position X="1" Y="1" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>BQAAAAAAACAAAQAAAAEAAAggAggQAAACAAAAAAABIgA=</HashCode>
+      <FileName>RESTConnection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RESTWrapper.Enums">
+    <Position X="1" Y="5.75" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="RESTWrapper.Enums.imSearchEmail" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Enums.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="RESTWrapper.Enums.imProfileAttributeID" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Enums.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RESTWrapper.Wrappers.Library" BaseTypeListCollapsed="true">
+    <Position X="7" Y="4" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAABAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Wrappers\Library.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RESTWrapper.Wrappers.Session" BaseTypeListCollapsed="true">
+    <Position X="4.25" Y="4" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAQBAAAAAAIggABAAAAABAAAAAgQhIAQ=</HashCode>
+      <FileName>Wrappers\Session.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="RESTWrapper.Interfaces.ILibrary">
+    <Position X="7" Y="1" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ILibrary.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RESTWrapper.Interfaces.ISession">
+    <Position X="4.25" Y="1" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIgAAAAAAAAAAAAAAgQgAAQ=</HashCode>
+      <FileName>Interfaces\ISession.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

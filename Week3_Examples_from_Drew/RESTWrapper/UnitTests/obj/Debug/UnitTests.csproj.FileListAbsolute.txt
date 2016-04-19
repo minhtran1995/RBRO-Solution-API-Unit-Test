@@ -1,0 +1,24 @@
+C:\_RBRO Main Project\RESTWrapper\UnitTests\bin\Debug\UnitTests.dll
+C:\_RBRO Main Project\RESTWrapper\UnitTests\bin\Debug\UnitTests.pdb
+C:\_RBRO Main Project\RESTWrapper\UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\_RBRO Main Project\RESTWrapper\UnitTests\bin\Debug\RESTWrapper.dll
+C:\_RBRO Main Project\RESTWrapper\UnitTests\bin\Debug\System.Net.Http.Formatting.dll
+C:\_RBRO Main Project\RESTWrapper\UnitTests\bin\Debug\RESTWrapper.pdb
+C:\_RBRO Main Project\RESTWrapper\UnitTests\bin\Debug\Newtonsoft.Json.xml
+C:\_RBRO Main Project\RESTWrapper\UnitTests\bin\Debug\System.Net.Http.Formatting.xml
+C:\_RBRO Main Project\RESTWrapper\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\_RBRO Main Project\RESTWrapper\UnitTests\obj\Debug\UnitTests.dll
+C:\_RBRO Main Project\RESTWrapper\UnitTests\obj\Debug\UnitTests.pdb
+C:\_RBRO Main Project\RESTWrapper\UnitTests\bin\Debug\UnitTests.dll.CodeAnalysisLog.xml
+C:\_RBRO Main Project\RESTWrapper\UnitTests\bin\Debug\UnitTests.dll.lastcodeanalysissucceeded
+C:\Users\dcushnie\Desktop\RESTWrapper\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\dcushnie\Desktop\RESTWrapper\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\dcushnie\Desktop\RESTWrapper\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\dcushnie\Desktop\RESTWrapper\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\dcushnie\Desktop\RESTWrapper\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\dcushnie\Desktop\RESTWrapper\UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dcushnie\Desktop\RESTWrapper\UnitTests\bin\Debug\RESTWrapper.dll
+C:\Users\dcushnie\Desktop\RESTWrapper\UnitTests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\dcushnie\Desktop\RESTWrapper\UnitTests\bin\Debug\RESTWrapper.pdb
+C:\Users\dcushnie\Desktop\RESTWrapper\UnitTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dcushnie\Desktop\RESTWrapper\UnitTests\bin\Debug\System.Net.Http.Formatting.xml

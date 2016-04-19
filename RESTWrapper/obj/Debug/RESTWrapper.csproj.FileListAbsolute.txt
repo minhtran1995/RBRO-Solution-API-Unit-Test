@@ -1,0 +1,63 @@
+C:\_RBRO Main Project\RESTWrapper\RESTWrapper\bin\Debug\RESTWrapper.dll
+C:\_RBRO Main Project\RESTWrapper\RESTWrapper\bin\Debug\RESTWrapper.pdb
+C:\_RBRO Main Project\RESTWrapper\RESTWrapper\bin\Debug\RESTWrapper.dll.CodeAnalysisLog.xml
+C:\_RBRO Main Project\RESTWrapper\RESTWrapper\bin\Debug\Newtonsoft.Json.dll
+C:\_RBRO Main Project\RESTWrapper\RESTWrapper\bin\Debug\System.Net.Http.Formatting.dll
+C:\_RBRO Main Project\RESTWrapper\RESTWrapper\bin\Debug\Newtonsoft.Json.xml
+C:\_RBRO Main Project\RESTWrapper\RESTWrapper\bin\Debug\System.Net.Http.Formatting.xml
+C:\_RBRO Main Project\RESTWrapper\RESTWrapper\obj\Debug\RESTWrapper.dll
+C:\_RBRO Main Project\RESTWrapper\RESTWrapper\obj\Debug\RESTWrapper.pdb
+C:\_RBRO Main Project\RESTWrapper\RESTWrapper\bin\Debug\RESTWrapper.dll.lastcodeanalysissucceeded
+C:\_RBRO Main Project\RESTWrapper\RESTWrapper\obj\Debug\RESTWrapper.csprojResolveAssemblyReference.cache
+C:\Users\dcushnie\Desktop\RESTWrapper\RESTWrapper\bin\Debug\RESTWrapper.dll
+C:\Users\dcushnie\Desktop\RESTWrapper\RESTWrapper\bin\Debug\RESTWrapper.pdb
+C:\Users\dcushnie\Desktop\RESTWrapper\RESTWrapper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dcushnie\Desktop\RESTWrapper\RESTWrapper\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\dcushnie\Desktop\RESTWrapper\RESTWrapper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dcushnie\Desktop\RESTWrapper\RESTWrapper\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\dcushnie\Desktop\RESTWrapper\RESTWrapper\obj\Debug\RESTWrapper.csprojResolveAssemblyReference.cache
+C:\Users\dcushnie\Desktop\RESTWrapper\RESTWrapper\obj\Debug\RESTWrapper.dll
+C:\Users\dcushnie\Desktop\RESTWrapper\RESTWrapper\obj\Debug\RESTWrapper.pdb
+C:\Users\Administrator\Desktop\package\RESTWrapper\RESTWrapper\obj\Debug\RESTWrapper.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\package\RESTWrapper\RESTWrapper\obj\Debug\RESTWrapper.dll
+C:\Users\Administrator\Desktop\package\RESTWrapper\RESTWrapper\obj\Debug\RESTWrapper.pdb
+C:\Users\Administrator\Desktop\package\RESTWrapper\RESTWrapper\bin\Debug\RESTWrapper.dll
+C:\Users\Administrator\Desktop\package\RESTWrapper\RESTWrapper\bin\Debug\RESTWrapper.pdb
+C:\Users\Administrator\Desktop\package\RESTWrapper\RESTWrapper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\package\RESTWrapper\RESTWrapper\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\package\RESTWrapper\RESTWrapper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\package\RESTWrapper\RESTWrapper\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\300771859\Desktop\RESTWrapper\RESTWrapper\bin\Debug\RESTWrapper.dll
+C:\Users\300771859\Desktop\RESTWrapper\RESTWrapper\bin\Debug\RESTWrapper.pdb
+C:\Users\300771859\Desktop\RESTWrapper\RESTWrapper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\300771859\Desktop\RESTWrapper\RESTWrapper\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\300771859\Desktop\RESTWrapper\RESTWrapper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\300771859\Desktop\RESTWrapper\RESTWrapper\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\300771859\Desktop\RESTWrapper\RESTWrapper\obj\Debug\RESTWrapper.dll
+C:\Users\300771859\Desktop\RESTWrapper\RESTWrapper\obj\Debug\RESTWrapper.pdb
+C:\Users\Michael\Desktop\RESTWrapper\RESTWrapper\bin\Debug\RESTWrapper.dll
+C:\Users\Michael\Desktop\RESTWrapper\RESTWrapper\bin\Debug\RESTWrapper.pdb
+C:\Users\Michael\Desktop\RESTWrapper\RESTWrapper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Michael\Desktop\RESTWrapper\RESTWrapper\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Michael\Desktop\RESTWrapper\RESTWrapper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Michael\Desktop\RESTWrapper\RESTWrapper\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Michael\Desktop\RESTWrapper\RESTWrapper\obj\Debug\RESTWrapper.dll
+C:\Users\Michael\Desktop\RESTWrapper\RESTWrapper\obj\Debug\RESTWrapper.pdb
+C:\Users\Eunmi Han\Desktop\W2016\RESTWrapper (1)\RESTWrapper\RESTWrapper\bin\Debug\RESTWrapper.dll
+C:\Users\Eunmi Han\Desktop\W2016\RESTWrapper (1)\RESTWrapper\RESTWrapper\bin\Debug\RESTWrapper.pdb
+C:\Users\Eunmi Han\Desktop\W2016\RESTWrapper (1)\RESTWrapper\RESTWrapper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eunmi Han\Desktop\W2016\RESTWrapper (1)\RESTWrapper\RESTWrapper\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Eunmi Han\Desktop\W2016\RESTWrapper (1)\RESTWrapper\RESTWrapper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eunmi Han\Desktop\W2016\RESTWrapper (1)\RESTWrapper\RESTWrapper\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Eunmi Han\Desktop\W2016\RESTWrapper (1)\RESTWrapper\RESTWrapper\obj\Debug\RESTWrapper.csprojResolveAssemblyReference.cache
+C:\Users\Eunmi Han\Desktop\W2016\RESTWrapper (1)\RESTWrapper\RESTWrapper\obj\Debug\RESTWrapper.dll
+C:\Users\Eunmi Han\Desktop\W2016\RESTWrapper (1)\RESTWrapper\RESTWrapper\obj\Debug\RESTWrapper.pdb
+C:\Users\Michael\Desktop\RESTWrapper-final\RESTWrapper\bin\Debug\RESTWrapper.dll
+C:\Users\Michael\Desktop\RESTWrapper-final\RESTWrapper\bin\Debug\RESTWrapper.pdb
+C:\Users\Michael\Desktop\RESTWrapper-final\RESTWrapper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Michael\Desktop\RESTWrapper-final\RESTWrapper\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Michael\Desktop\RESTWrapper-final\RESTWrapper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Michael\Desktop\RESTWrapper-final\RESTWrapper\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Michael\Desktop\RESTWrapper-final\RESTWrapper\obj\Debug\RESTWrapper.dll
+C:\Users\Michael\Desktop\RESTWrapper-final\RESTWrapper\obj\Debug\RESTWrapper.pdb
+C:\Users\Michael\Desktop\RESTWrapper-final\RESTWrapper\obj\Debug\RESTWrapper.csprojResolveAssemblyReference.cache

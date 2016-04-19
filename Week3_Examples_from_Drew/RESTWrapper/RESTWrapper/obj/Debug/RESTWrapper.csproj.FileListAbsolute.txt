@@ -1,0 +1,20 @@
+C:\_RBRO Main Project\RESTWrapper\RESTWrapper\bin\Debug\RESTWrapper.dll
+C:\_RBRO Main Project\RESTWrapper\RESTWrapper\bin\Debug\RESTWrapper.pdb
+C:\_RBRO Main Project\RESTWrapper\RESTWrapper\bin\Debug\RESTWrapper.dll.CodeAnalysisLog.xml
+C:\_RBRO Main Project\RESTWrapper\RESTWrapper\bin\Debug\Newtonsoft.Json.dll
+C:\_RBRO Main Project\RESTWrapper\RESTWrapper\bin\Debug\System.Net.Http.Formatting.dll
+C:\_RBRO Main Project\RESTWrapper\RESTWrapper\bin\Debug\Newtonsoft.Json.xml
+C:\_RBRO Main Project\RESTWrapper\RESTWrapper\bin\Debug\System.Net.Http.Formatting.xml
+C:\_RBRO Main Project\RESTWrapper\RESTWrapper\obj\Debug\RESTWrapper.dll
+C:\_RBRO Main Project\RESTWrapper\RESTWrapper\obj\Debug\RESTWrapper.pdb
+C:\_RBRO Main Project\RESTWrapper\RESTWrapper\bin\Debug\RESTWrapper.dll.lastcodeanalysissucceeded
+C:\_RBRO Main Project\RESTWrapper\RESTWrapper\obj\Debug\RESTWrapper.csprojResolveAssemblyReference.cache
+C:\Users\dcushnie\Desktop\RESTWrapper\RESTWrapper\bin\Debug\RESTWrapper.dll
+C:\Users\dcushnie\Desktop\RESTWrapper\RESTWrapper\bin\Debug\RESTWrapper.pdb
+C:\Users\dcushnie\Desktop\RESTWrapper\RESTWrapper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dcushnie\Desktop\RESTWrapper\RESTWrapper\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\dcushnie\Desktop\RESTWrapper\RESTWrapper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dcushnie\Desktop\RESTWrapper\RESTWrapper\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\dcushnie\Desktop\RESTWrapper\RESTWrapper\obj\Debug\RESTWrapper.csprojResolveAssemblyReference.cache
+C:\Users\dcushnie\Desktop\RESTWrapper\RESTWrapper\obj\Debug\RESTWrapper.dll
+C:\Users\dcushnie\Desktop\RESTWrapper\RESTWrapper\obj\Debug\RESTWrapper.pdb

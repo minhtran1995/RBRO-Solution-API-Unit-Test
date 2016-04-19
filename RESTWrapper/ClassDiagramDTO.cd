@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="RESTWrapper.DataTransferObjects.BaseInput">
+    <Position X="3.5" Y="4.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAABAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataTransferObjects\BaseInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RESTWrapper.DataTransferObjects.BaseOutput">
+    <Position X="2.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAQAAAgAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>DataTransferObjects\BaseOutput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RESTWrapper.DataTransferObjects.WorkList.WorklistInput">
+    <Position X="8.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataTransferObjects\WorkList\WorklistInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RESTWrapper.DataTransferObjects.WorkList.WorklistOutput">
+    <Position X="7" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>DataTransferObjects\WorkList\WorklistOutput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RESTWrapper.DataTransferObjects.CheckoutList.CheckoutListOutput">
+    <Position X="7" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>DataTransferObjects\CheckoutList\CheckoutListOutput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RESTWrapper.DataTransferObjects.CheckoutList.CheckoutListInput">
+    <Position X="8.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataTransferObjects\CheckoutList\CheckoutListInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

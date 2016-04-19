@@ -1,0 +1,79 @@
+C:\_RBRO Main Project\RESTWrapper\UnitTests\bin\Debug\UnitTests.dll
+C:\_RBRO Main Project\RESTWrapper\UnitTests\bin\Debug\UnitTests.pdb
+C:\_RBRO Main Project\RESTWrapper\UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\_RBRO Main Project\RESTWrapper\UnitTests\bin\Debug\RESTWrapper.dll
+C:\_RBRO Main Project\RESTWrapper\UnitTests\bin\Debug\System.Net.Http.Formatting.dll
+C:\_RBRO Main Project\RESTWrapper\UnitTests\bin\Debug\RESTWrapper.pdb
+C:\_RBRO Main Project\RESTWrapper\UnitTests\bin\Debug\Newtonsoft.Json.xml
+C:\_RBRO Main Project\RESTWrapper\UnitTests\bin\Debug\System.Net.Http.Formatting.xml
+C:\_RBRO Main Project\RESTWrapper\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\_RBRO Main Project\RESTWrapper\UnitTests\obj\Debug\UnitTests.dll
+C:\_RBRO Main Project\RESTWrapper\UnitTests\obj\Debug\UnitTests.pdb
+C:\_RBRO Main Project\RESTWrapper\UnitTests\bin\Debug\UnitTests.dll.CodeAnalysisLog.xml
+C:\_RBRO Main Project\RESTWrapper\UnitTests\bin\Debug\UnitTests.dll.lastcodeanalysissucceeded
+C:\Users\dcushnie\Desktop\RESTWrapper\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\dcushnie\Desktop\RESTWrapper\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\dcushnie\Desktop\RESTWrapper\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\dcushnie\Desktop\RESTWrapper\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\dcushnie\Desktop\RESTWrapper\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\dcushnie\Desktop\RESTWrapper\UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dcushnie\Desktop\RESTWrapper\UnitTests\bin\Debug\RESTWrapper.dll
+C:\Users\dcushnie\Desktop\RESTWrapper\UnitTests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\dcushnie\Desktop\RESTWrapper\UnitTests\bin\Debug\RESTWrapper.pdb
+C:\Users\dcushnie\Desktop\RESTWrapper\UnitTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dcushnie\Desktop\RESTWrapper\UnitTests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Desktop\package\RESTWrapper\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Administrator\Desktop\package\RESTWrapper\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Administrator\Desktop\package\RESTWrapper\UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\package\RESTWrapper\UnitTests\bin\Debug\RESTWrapper.dll
+C:\Users\Administrator\Desktop\package\RESTWrapper\UnitTests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\package\RESTWrapper\UnitTests\bin\Debug\RESTWrapper.pdb
+C:\Users\Administrator\Desktop\package\RESTWrapper\UnitTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\package\RESTWrapper\UnitTests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Desktop\package\RESTWrapper\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\package\RESTWrapper\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Administrator\Desktop\package\RESTWrapper\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\300771859\Desktop\RESTWrapper\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\300771859\Desktop\RESTWrapper\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\300771859\Desktop\RESTWrapper\UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\300771859\Desktop\RESTWrapper\UnitTests\bin\Debug\RESTWrapper.dll
+C:\Users\300771859\Desktop\RESTWrapper\UnitTests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\300771859\Desktop\RESTWrapper\UnitTests\bin\Debug\RESTWrapper.pdb
+C:\Users\300771859\Desktop\RESTWrapper\UnitTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\300771859\Desktop\RESTWrapper\UnitTests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\300771859\Desktop\RESTWrapper\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\300771859\Desktop\RESTWrapper\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\300771859\Desktop\RESTWrapper\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\Michael\Desktop\RESTWrapper\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Michael\Desktop\RESTWrapper\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Michael\Desktop\RESTWrapper\UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Michael\Desktop\RESTWrapper\UnitTests\bin\Debug\RESTWrapper.dll
+C:\Users\Michael\Desktop\RESTWrapper\UnitTests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Michael\Desktop\RESTWrapper\UnitTests\bin\Debug\RESTWrapper.pdb
+C:\Users\Michael\Desktop\RESTWrapper\UnitTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Michael\Desktop\RESTWrapper\UnitTests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Michael\Desktop\RESTWrapper\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\RESTWrapper\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Michael\Desktop\RESTWrapper\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\Eunmi Han\Desktop\W2016\RESTWrapper (1)\RESTWrapper\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Eunmi Han\Desktop\W2016\RESTWrapper (1)\RESTWrapper\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Eunmi Han\Desktop\W2016\RESTWrapper (1)\RESTWrapper\UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eunmi Han\Desktop\W2016\RESTWrapper (1)\RESTWrapper\UnitTests\bin\Debug\RESTWrapper.dll
+C:\Users\Eunmi Han\Desktop\W2016\RESTWrapper (1)\RESTWrapper\UnitTests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Eunmi Han\Desktop\W2016\RESTWrapper (1)\RESTWrapper\UnitTests\bin\Debug\RESTWrapper.pdb
+C:\Users\Eunmi Han\Desktop\W2016\RESTWrapper (1)\RESTWrapper\UnitTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eunmi Han\Desktop\W2016\RESTWrapper (1)\RESTWrapper\UnitTests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Eunmi Han\Desktop\W2016\RESTWrapper (1)\RESTWrapper\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Eunmi Han\Desktop\W2016\RESTWrapper (1)\RESTWrapper\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Eunmi Han\Desktop\W2016\RESTWrapper (1)\RESTWrapper\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\Michael\Desktop\RESTWrapper-final\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Michael\Desktop\RESTWrapper-final\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Michael\Desktop\RESTWrapper-final\UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Michael\Desktop\RESTWrapper-final\UnitTests\bin\Debug\RESTWrapper.dll
+C:\Users\Michael\Desktop\RESTWrapper-final\UnitTests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Michael\Desktop\RESTWrapper-final\UnitTests\bin\Debug\RESTWrapper.pdb
+C:\Users\Michael\Desktop\RESTWrapper-final\UnitTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Michael\Desktop\RESTWrapper-final\UnitTests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Michael\Desktop\RESTWrapper-final\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\RESTWrapper-final\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Michael\Desktop\RESTWrapper-final\UnitTests\obj\Debug\UnitTests.pdb
